@@ -165,7 +165,7 @@ def main():
     fig.update_layout(
         title="Поверхность текучести и потенциал пластического течения в плоскости q-p",
         xaxis_title="Объемная деформация (ε<sub>v</sub>)",
-        yaxis_title="Деформация сдвига γ",
+        yaxis_title="Деформация сдвига (γ)",
         legend_title="Легенда",
         showlegend=True,
         xaxis_range=[0, 100],
